@@ -9,6 +9,7 @@
 
 [deployment for this main ](https://tamara--server-deploy-prod.herokuapp.com/).
 
+[PR ](https://github.com/Tamaraalrashed/server-deployment-practice/pull/2).
 <hr>
 
 ## Setup
@@ -21,6 +22,9 @@ PORT - 3000
 ## Running the app
 `npm start`
 
+<hr> 
+
 ## UML
 
 ![img](./img/UML-class1.JPG)
+
